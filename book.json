@@ -30,7 +30,7 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "cs-notes"
+      "shortName": "hypogump-cs-notes"
     },
     "github-buttons": {
       "buttons": [{
@@ -42,12 +42,12 @@
       }]
     },
     "editlink": {
-      "base": "https://github.com/HypoGump/cs-notes/blob/master",
+      "base": "https://github.com/HypoGump/cs-notes/blob/main",
       "label": "Edit",
       "multilingual": false
     },
     "ga": {
-      "token": "UA-131910384-3"
+      "token": "UA-179726238-1"
     },
     "prism": {
       "ignore": [
@@ -68,8 +68,8 @@
       "path": "/"
     },
     "donate": {
-      "wechat": "https://github.com/HypoGump/cs-notes/wechat.jpg",
-      "alipay": "https://github.com/HypoGump/cs-notes/alipay.jpg",
+      "wechat": "https://hypogump.github.io/cs-notes/wechat.jpg",
+      "alipay": "https://hypogump.github.io/cs-notes/alipay.jpg",
       "title": "",
       "button": "赏",
       "alipayText": "支付宝打赏",
