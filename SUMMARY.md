@@ -5,6 +5,7 @@
 ## 书籍
 
 * [Effective C++](./Book/effective-c++.md)
+* [Effective Modern C++](./Book/effective-modern-c++.md)
 
 ## 面试
 
