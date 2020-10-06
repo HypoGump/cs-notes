@@ -32,4 +32,4 @@ branches:
 
 env:
   global:
-    - REF=https://github.com/HypoGump/cs-notes.git # 设置 github 地址
+    - REF=github.com/HypoGump/cs-notes.git # 设置 github 地址
